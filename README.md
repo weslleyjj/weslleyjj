@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/weslleyjj/weslleyjj/weslleyjj/capa-github.png "Header")]
+[![Header](https://raw.githubusercontent.com/weslleyjj/weslleyjj/capa-github.png "Header")]
 
 <!--
 **weslleyjj/weslleyjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
