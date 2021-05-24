@@ -13,6 +13,12 @@
 
 <h3>🧭 Habilidades </h3>
 
+<div>
+ <a href="https://github.com/weslleyjj/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=weslleyjj&show_icons=true&theme=dark" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyjj&layout=compact&theme=dark" style"max-width: 100%;" />
+ </a>
+</div>
 
 <!--
 **weslleyjj/weslleyjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
