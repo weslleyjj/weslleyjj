@@ -1,6 +1,6 @@
 ![Capa de Perfil](https://github.com/weslleyjj/weslleyjj/blob/main/github-capa.png)
 
-<h2> Olá, me chamo Jodeilson Weslley, Bem vindo ao meu perfil! </h2>
+<h2> Olá, me chamo Jodeilson Weslley, Bem vindo ao meu perfil! [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jodeilson-weslley-458207122)](https://www.linkedin.com/in/jodeilson-weslley-458207122)</h2>
 
 
 
@@ -12,7 +12,7 @@
 
 <h3>🧭 Habilidades </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jodeilson-weslley-458207122)](https://www.linkedin.com/in/jodeilson-weslley-458207122)
+
 <!--
 **weslleyjj/weslleyjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
