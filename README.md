@@ -2,7 +2,7 @@
 
 <h2> Olá, me chamo Jodeilson Weslley, Bem vindo ao meu perfil! </h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jodeilson-weslley-458207122)](https://www.linkedin.com/in/jodeilson-weslley-458207122)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/jodeilson-weslley-458207122)](https://www.linkedin.com/in/jodeilson-weslley-458207122)
 
 
 <h3>📔 Carreira</h3>
