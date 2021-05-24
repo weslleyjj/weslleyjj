@@ -12,7 +12,7 @@
 
 <h3>🧭 Habilidades </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=www.linkedin.com/in/jodeilson-weslley-458207122)](www.linkedin.com/in/jodeilson-weslley-458207122)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/jodeilson-weslley-458207122)](https://www.linkedin.com/in/jodeilson-weslley-458207122)
 <!--
 **weslleyjj/weslleyjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
