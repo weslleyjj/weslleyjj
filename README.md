@@ -27,6 +27,14 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=inactive)
 
+<h3>⚙️ Ferramentas</h3>
+
+![](https://img.shields.io/badge/IDE-Intellij-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GIT_UI-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=2bbc8a)
+
+
 <div>
  <a href="https://github.com/weslleyjj/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleyjj&layout=compact&theme=dark" style"max-width: 100%;" />
