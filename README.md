@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=inactive)
+![](https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=9cf)
 
 <h3>⚙️ Ferramentas</h3>
 
